@@ -5,7 +5,7 @@
 - 📫 How to reach me
 - E-mail: lailsonlira10@gmail.com
 - TEL: (83)994041876
-- ⚡ Fun fact: ...
+
 
 <!---
 LailsonLira/LailsonLira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
